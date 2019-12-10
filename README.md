@@ -10,3 +10,10 @@ This is a friendly kaggle learning, the dataset is clean and easy to understand.
 
 2. Simply clean features and predict the results with some ML, the python notebook is [First formal kaggle competition: Classify forest](https://www.kaggle.com/gukai1212/first-formal-kaggle-competition-classify-forest)
 
+
+-------------------  2019.12.09 completed  -------------------
+
+Explore the categorical encoder in the preprocess of ML, the notebook is [Encoding for category in my learning](https://www.kaggle.com/gukai1212/encoding-for-category-in-my-learning)
+
+
+
